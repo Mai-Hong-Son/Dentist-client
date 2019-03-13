@@ -1,0 +1,9 @@
+export const fetchServices = (...args) => ({ type: 'service/list', args });
+export const fetchServiceIssues = (...args) => ({ type: 'service/issue/list', args });
+export const fetchServiceIssueDetails = (...args) => ({ type: 'service/issue/detail', args });
+export const fetchServiceGuide = (...args) => ({ type: 'service/issue/guide', args });
+export const createRating = (...args) => ({ type: 'service/issue/detail/rating/create', args });
+export const like = (...args) => ({ type: 'service/issue/detail/rating/like', args });
+export const dislike = (...args) => ({ type: 'service/issue/detail/rating/dislike', args });
+export const check = (...args) => ({ type: 'service/issue/detail/rating/check', args });
+export const fetchServiceIssueDetailById = (...args) => ({ type: 'service/issue/detail/id', args });

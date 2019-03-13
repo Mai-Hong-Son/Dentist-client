@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>248029839720-02ehp50i5v92bc6s8iaq54ovo9lajaoe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.248029839720-02ehp50i5v92bc6s8iaq54ovo9lajaoe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZf66OpM0jXcfpRHG7ru8kLR4ygWEC-fM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>248029839720</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.agiletech.ursmiles</string>
+	<key>PROJECT_ID</key>
+	<string>spakn-b4fde</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spakn-b4fde.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:248029839720:ios:bc0796b9b4758e81</string>
+	<key>DATABASE_URL</key>
+	<string>https://spakn-b4fde.firebaseio.com</string>
+</dict>
+</plist>
